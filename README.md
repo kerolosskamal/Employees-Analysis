@@ -20,5 +20,3 @@ Objectives:
 Facilitate the understanding of workforce distribution and trends
 
 Support strategic planning and policy-making with data-driven insights
-
-Provide a user-friendly interface for HR professionals to explore and analyze employee data
