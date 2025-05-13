@@ -1,22 +1,28 @@
 # Employees-Analysis
- This Power BI project provides a comprehensive analysis of employee data across multiple countries, including Egypt, Lebanon, Saudi Arabia, Syria, and the UAE. The dashboard offers key insights and visualizations, enabling data-driven decisions in human resources and organizational management.
+ This Power BI project provides a comprehensive analysis of employee data across multiple countries, including Egypt, Lebanon, Saudi Arabia, Syria, and the UAE. The dashboard offers key insights and 
 
-Key Features:
-Average Salaries: Comparative analysis of average salaries across the selected countries.
+# visualizations
+- enabling data-driven decisions in human resources and organizational management.
 
-Average Job Rate: Breakdown of job rates by different parameters, such as years and departments.
+## Key Features:
+- Average Salaries: Comparative analysis of average salaries across the selected countries.
 
-Number of Employees: Total employee count segmented by country, department, and year.
+- Average Job Rate: Breakdown of job rates by different parameters, such as years and departments.
 
-Dashboards: Interactive visuals displaying:
+- Number of Employees: Total employee count segmented by country, department, and year.
 
-Number of employees by department
+## Dashboards: Interactive visuals displaying:
 
-Average job rate over the years
+- Number of employees by department
 
-Employee count trends by year
+- Average job rate over the years
 
-Objectives:
-Facilitate the understanding of workforce distribution and trends
+- Employee count trends by year
 
-Support strategic planning and policy-making with data-driven insights
+## Objectives:
+- Facilitate the understanding of workforce distribution and trends
+
+- Support strategic planning and policy-making with data-driven insights
+
+  ![Employees Report](https://github.com/user-attachments/assets/9977c549-2e38-4773-8f38-f3b7c3d68619)
+
